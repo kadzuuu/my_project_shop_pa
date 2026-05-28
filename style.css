@@ -1,0 +1,27 @@
+@charset "UTF-8";
+html{
+    background-color:bisque;
+    font-size: 100%;
+    font-family: serif;
+
+}
+
+main{
+    background-color: #eeffee;
+    color: green;
+
+}
+
+article{
+    background-color: orange;
+}
+
+section{
+    background-color: yellow;
+
+}
+
+footer{
+    background-color:rgb(250, 215, 245);
+    text-align: left;
+}
